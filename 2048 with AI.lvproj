@@ -16,6 +16,7 @@
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
+			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
