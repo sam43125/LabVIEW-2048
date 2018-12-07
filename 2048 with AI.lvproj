@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -20,6 +21,8 @@
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
 			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
+			<Item Name="MoveLeft.vi" Type="VI" URL="../SubVIs/MoveLeft.vi"/>
+			<Item Name="MoveRight.vi" Type="VI" URL="../SubVIs/MoveRight.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
