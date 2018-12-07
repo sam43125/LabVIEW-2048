@@ -23,6 +23,8 @@
 			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
 			<Item Name="MoveLeft.vi" Type="VI" URL="../SubVIs/MoveLeft.vi"/>
 			<Item Name="MoveRight.vi" Type="VI" URL="../SubVIs/MoveRight.vi"/>
+			<Item Name="MoveUp.vi" Type="VI" URL="../SubVIs/MoveUp.vi"/>
+			<Item Name="MoveDown.vi" Type="VI" URL="../SubVIs/MoveDown.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
