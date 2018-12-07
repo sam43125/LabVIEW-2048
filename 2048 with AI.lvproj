@@ -14,6 +14,9 @@
 			<Item Name="HW3_PART1_0616052_0616329.docx" Type="Document" URL="../Documents/HW3_PART1_0616052_0616329.docx"/>
 			<Item Name="LabVIEW-Program_HW3_Game-with-AI-module.doc" Type="Document" URL="../Documents/LabVIEW-Program_HW3_Game-with-AI-module.doc"/>
 		</Item>
+		<Item Name="Icons" Type="Folder">
+			<Item Name="2048.png" Type="Document" URL="../Icons/2048.png"/>
+		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
 			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
