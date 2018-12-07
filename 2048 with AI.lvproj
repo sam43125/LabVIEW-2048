@@ -11,8 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Documents" Type="Folder">
+			<Item Name="HW3_PART1_0616052_0616329.docx" Type="Document" URL="../Documents/HW3_PART1_0616052_0616329.docx"/>
 			<Item Name="LabVIEW-Program_HW3_Game-with-AI-module.doc" Type="Document" URL="../Documents/LabVIEW-Program_HW3_Game-with-AI-module.doc"/>
-			<Item Name="Specification.docx" Type="Document" URL="../Documents/Specification.docx"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
