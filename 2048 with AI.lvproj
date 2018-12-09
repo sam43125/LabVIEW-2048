@@ -19,12 +19,14 @@
 			<Item Name="2048.png" Type="Document" URL="../Icons/2048.png"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="AI-Greedy.vi" Type="VI" URL="../SubVIs/AI-Greedy.vi"/>
 			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
 			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
 			<Item Name="MoveLeft.vi" Type="VI" URL="../SubVIs/MoveLeft.vi"/>
 			<Item Name="MoveRight.vi" Type="VI" URL="../SubVIs/MoveRight.vi"/>
 			<Item Name="MoveUp.vi" Type="VI" URL="../SubVIs/MoveUp.vi"/>
 			<Item Name="MoveDown.vi" Type="VI" URL="../SubVIs/MoveDown.vi"/>
+			<Item Name="Check.vi" Type="VI" URL="../SubVIs/Check.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
