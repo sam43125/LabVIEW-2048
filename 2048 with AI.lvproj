@@ -28,6 +28,9 @@
 			<Item Name="MoveDown.vi" Type="VI" URL="../SubVIs/MoveDown.vi"/>
 			<Item Name="Check.vi" Type="VI" URL="../SubVIs/Check.vi"/>
 		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Commands.ctl" Type="VI" URL="../Controls/Commands.ctl"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
