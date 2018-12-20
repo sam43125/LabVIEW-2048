@@ -31,6 +31,11 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Commands.ctl" Type="VI" URL="../Controls/Commands.ctl"/>
 		</Item>
+		<Item Name="Resource" Type="Folder">
+			<Item Name="Goat_1.5x.wav" Type="Document" URL="../Resource/Goat_1.5x.wav"/>
+			<Item Name="Goat_1x.wav" Type="Document" URL="../Resource/Goat_1x.wav"/>
+			<Item Name="Goat_2x.wav" Type="Document" URL="../Resource/Goat_2x.wav"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
