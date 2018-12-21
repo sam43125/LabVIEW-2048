@@ -27,6 +27,7 @@
 			<Item Name="MoveUp.vi" Type="VI" URL="../SubVIs/MoveUp.vi"/>
 			<Item Name="MoveDown.vi" Type="VI" URL="../SubVIs/MoveDown.vi"/>
 			<Item Name="Check.vi" Type="VI" URL="../SubVIs/Check.vi"/>
+			<Item Name="Sound.vi" Type="VI" URL="../SubVIs/Sound.vi"/>
 		</Item>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Commands.ctl" Type="VI" URL="../Controls/Commands.ctl"/>
@@ -35,6 +36,10 @@
 			<Item Name="Goat_1.5x.wav" Type="Document" URL="../Resource/Goat_1.5x.wav"/>
 			<Item Name="Goat_1x.wav" Type="Document" URL="../Resource/Goat_1x.wav"/>
 			<Item Name="Goat_2x.wav" Type="Document" URL="../Resource/Goat_2x.wav"/>
+		</Item>
+		<Item Name="Globals" Type="Folder">
+			<Item Name="Score.vi" Type="VI" URL="../Globals/Score.vi"/>
+			<Item Name="Stop.vi" Type="VI" URL="../Globals/Stop.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
