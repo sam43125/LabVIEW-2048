@@ -11,35 +11,23 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Documents" Type="Folder">
-			<Item Name="HW3_PART1_0616052_0616329.docx" Type="Document" URL="../Documents/HW3_PART1_0616052_0616329.docx"/>
-			<Item Name="LabVIEW-Program_HW3_Game-with-AI-module.doc" Type="Document" URL="../Documents/LabVIEW-Program_HW3_Game-with-AI-module.doc"/>
+		<Item Name="Documents" Type="Folder" URL="../Documents">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Icons" Type="Folder">
-			<Item Name="2048.png" Type="Document" URL="../Icons/2048.png"/>
+		<Item Name="Icons" Type="Folder" URL="../Icons">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="SubVIs" Type="Folder">
-			<Item Name="AI-Greedy.vi" Type="VI" URL="../SubVIs/AI-Greedy.vi"/>
-			<Item Name="Draw.vi" Type="VI" URL="../SubVIs/Draw.vi"/>
-			<Item Name="Random.vi" Type="VI" URL="../SubVIs/Random.vi"/>
-			<Item Name="MoveLeft.vi" Type="VI" URL="../SubVIs/MoveLeft.vi"/>
-			<Item Name="MoveRight.vi" Type="VI" URL="../SubVIs/MoveRight.vi"/>
-			<Item Name="MoveUp.vi" Type="VI" URL="../SubVIs/MoveUp.vi"/>
-			<Item Name="MoveDown.vi" Type="VI" URL="../SubVIs/MoveDown.vi"/>
-			<Item Name="Check.vi" Type="VI" URL="../SubVIs/Check.vi"/>
-			<Item Name="Sound.vi" Type="VI" URL="../SubVIs/Sound.vi"/>
+		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Commands.ctl" Type="VI" URL="../Controls/Commands.ctl"/>
+		<Item Name="Controls" Type="Folder" URL="../Controls">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Resource" Type="Folder">
-			<Item Name="Goat_1.5x.wav" Type="Document" URL="../Resource/Goat_1.5x.wav"/>
-			<Item Name="Goat_1x.wav" Type="Document" URL="../Resource/Goat_1x.wav"/>
-			<Item Name="Goat_2x.wav" Type="Document" URL="../Resource/Goat_2x.wav"/>
+		<Item Name="Resource" Type="Folder" URL="../Resource">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Globals" Type="Folder">
-			<Item Name="Score.vi" Type="VI" URL="../Globals/Score.vi"/>
-			<Item Name="Stop.vi" Type="VI" URL="../Globals/Stop.vi"/>
+		<Item Name="Globals" Type="Folder" URL="../Globals">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
