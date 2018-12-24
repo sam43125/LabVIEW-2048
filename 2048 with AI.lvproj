@@ -71,6 +71,20 @@
 			</Item>
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Zip File" Type="Zip File">
+				<Property Name="Absolute[0]" Type="Bool">false</Property>
+				<Property Name="BuildName" Type="Str">Zip File</Property>
+				<Property Name="Comments" Type="Str"></Property>
+				<Property Name="DestinationID[0]" Type="Str">{23EA32D4-97C0-492F-94A0-05A4BA171132}</Property>
+				<Property Name="DestinationItemCount" Type="Int">1</Property>
+				<Property Name="DestinationName[0]" Type="Str">Destination Directory</Property>
+				<Property Name="IncludedItemCount" Type="Int">1</Property>
+				<Property Name="IncludedItems[0]" Type="Ref">/My Computer</Property>
+				<Property Name="IncludeProject" Type="Bool">true</Property>
+				<Property Name="Path[0]" Type="Path">../2048.zip</Property>
+				<Property Name="ZipBase" Type="Str">NI_zipbasevirtual</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
