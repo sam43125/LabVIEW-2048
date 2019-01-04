@@ -82,7 +82,7 @@
 				<Property Name="IncludedItemCount" Type="Int">1</Property>
 				<Property Name="IncludedItems[0]" Type="Ref">/My Computer</Property>
 				<Property Name="IncludeProject" Type="Bool">true</Property>
-				<Property Name="Path[0]" Type="Path">../2048.zip</Property>
+				<Property Name="Path[0]" Type="Path">../AI-G_FinalVersion_0616052_0616329.zip</Property>
 				<Property Name="ZipBase" Type="Str">NI_zipbasevirtual</Property>
 			</Item>
 		</Item>
